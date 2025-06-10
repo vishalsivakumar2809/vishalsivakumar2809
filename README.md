@@ -2,28 +2,24 @@
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsivakumar2809&show_icons=true&theme=dark)](https://github.com/vishalsivakumar2809)
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🧠 Languages & Frameworks  
+### Languages & Frameworks  
 <p align="left">
   <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/></a>
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/></a>
   <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/></a>
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/></a>
+  <a href="https://www.gnu.org/software/emacs/manual/html_node/elisp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" width="40" title="Lisp"/></a>
+  <a href="https://www.swi-prolog.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Swiprolog-logo.png" width="40" title="Prolog" /></a>
+  <a href="https://www.pygame.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Pygame_logo.svg" width="40" title="Pygame" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/></a>
-  <a href="https://nodejs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/></a>
-  <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js"/></a>
-  <a href="https://firebase.google.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" title="Firebase"/></a>
-  <a href="https://www.mysql.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/></a>
-  <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/></a>
-  <a href="https://sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/></a>
-  <a href="https://developer.android.com/studio"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" width="40" title="Android Studio"/></a>
 </p>
 
-### ⚙️ Tools & Platforms  
+### Tools & Platforms  
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/></a>
   <a href="https://github.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/></a>
@@ -35,9 +31,11 @@
   <a href="https://junit.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" width="40" title="JUnit"/></a>
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/></a>
   <a href="https://www.canva.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" title="Canva"/></a>
+  <span title="gem5"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Computer-icon.svg" width="40" alt="gem5 icon"/></span>
+  <span title="RISC-V"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/RISC-V_logo.svg" width="40" alt="RISC-V icon"/></span>
 </p>
 
-### 📊 Data & Analysis  
+### Data & Analysis  
 <p align="left">
   <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" title="Pandas"/></a>
   <a href="https://numpy.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" title="NumPy"/></a>
@@ -47,6 +45,7 @@
   <a href="https://www.r-project.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" title="R"/></a>
   <a href="https://www.ibm.com/analytics/spss-statistics-software"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spss/spss-original.svg" width="40" title="SPSS"/></a>
 </p>
+
 
 
 
