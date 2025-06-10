@@ -1,5 +1,6 @@
 ## Hi there <img src=https://i.gifer.com/33HU.gif width="40" height="40" />
 
+[![Vishal's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=vishalsivakumar2809&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/vishalsivakumar2809/github-readme-stats#gh-dark-mode-only)
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 
 <!--
