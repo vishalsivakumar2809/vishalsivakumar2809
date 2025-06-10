@@ -1,4 +1,4 @@
-## Hi there <img src=(https://i.gifer.com/33HU.gif) width="40" height="40" />
+## Hi there <img src=https://i.gifer.com/33HU.gif width="40" height="40" />
 
 https://i.gifer.com/33HU.gif
 
