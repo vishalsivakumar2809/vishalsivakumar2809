@@ -1,6 +1,6 @@
 ## Hi there <img src=https://i.gifer.com/33HU.gif width="40" height="40" />
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
 
 <!--
 **vishalsivakumar2809/vishalsivakumar2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
