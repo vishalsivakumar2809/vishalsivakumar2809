@@ -2,8 +2,6 @@
 
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsivakumar2809&show_icons=true&theme=dark)](https://github.com/vishalsivakumar2809)
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skillicons.dev)
-
 ## 🚀 Tech Stack
 
 ### 🎨 Frontend
