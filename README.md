@@ -11,8 +11,8 @@
   <a href="https://kotlinlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" title="Kotlin"/></a>
   <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/></a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/></a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" width="24"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Swiprolog-logo.png" width="24"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lisp/lisp-original.svg" width="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Swiprolog-logo.png" width="40"/>
   <a href="https://www.pygame.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Pygame_logo.svg" width="40" title="Pygame" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/></a>
