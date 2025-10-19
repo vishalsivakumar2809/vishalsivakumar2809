@@ -1,5 +1,4 @@
 ## Hi there <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
-## I am using this to test my pushes!
 [![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsivakumar2809&show_icons=true&theme=dark)](https://github.com/vishalsivakumar2809)
 
 ## Tech Stack
