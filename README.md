@@ -1,5 +1,5 @@
 ## Hi there <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://vishalsivakumar2809.github.io/Portfolio/)
+[![Portfolio](assets/portfolio.png)](https://vishalsivakumar2809.github.io/Portfolio/)
 
 ## Tech Stack
 
