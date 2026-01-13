@@ -1,7 +1,6 @@
 ## Hi there <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
 
-[![Portfolio](![portfolio](https://github.com/user-attachments/assets/d681a59b-aac0-4129-9677-2c8075c618f7)
-)](https://vishalsivakumar2809.github.io/Portfolio/)
+[![Portfolio](https://github.com/user-attachments/assets/d681a59b-aac0-4129-9677-2c8075c618f7)](https://vishalsivakumar2809.github.io/Portfolio/)
 
 ## Tech Stack
 
