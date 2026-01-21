@@ -100,3 +100,38 @@
   &nbsp;
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBlM-zGzBpbivfKA3WIcKi1rgCma19QD5yXyu4LmQGcod-YyaQvjx_yli-uDiYYQVIKYBZA&s=10" width="40" title="Gem5" />
 </p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
+  </a>
+</p>
+
+<h3 align="center">Backend & Frameworks</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,c,cpp,nodejs,express,django,flask" />
+  </a>
+</p>
+
+<h3 align="center">Data Science & Machine Learning</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,r,matlab" />
+  </a>
+</p>
+
+<h3 align="center">Cloud & DevOps</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,supabase,heroku,githubactions,docker" />
+  </a>
+</p>
+
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vim,linux,arduino,figma" />
+  </a>
+</p>
