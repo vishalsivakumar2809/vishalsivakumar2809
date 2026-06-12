@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
 
 # Vishal Sivakumar
 
