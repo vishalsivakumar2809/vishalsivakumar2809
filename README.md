@@ -1,4 +1,4 @@
-<div align="center"> 
+<div align="center">
 
 # Vishal Sivakumar <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
 
@@ -11,13 +11,12 @@
 
 ---
 
-I'm a full-stack developer with a focus on building accessible, data-driven applications. My interests span software engineering, machine learning, and reinforcement learning — currently training a Mario RL bot.
+I'm a full-stack engineer and honors researcher specializing in scalable web infrastructure, cloud architecture, and intelligent systems. When I'm not maintaining production systems, I design algorithms and experiment with machine learning frameworks.
 
-- &nbsp; Dean's Honor Roll · 4× &nbsp;|&nbsp; GPA 3.7
-- &nbsp; Amdahl Academic Achievement Scholarship in Computing Science
-
-- &nbsp; Capstone: Full Stack Developer @ [SAPAA](https://sapaastewards.com)
-- &nbsp; Teaching Assistant — CMPUT 204 (Algorithms I)
+- &nbsp; 🏅 Dean's Honor Roll · 4× consecutive semesters &nbsp;|&nbsp; GPA 3.7
+- &nbsp; 🎓 Amdahl Academic Achievement Scholarship in Computing Science
+- &nbsp; 🌲 Capstone: Full Stack Developer @ [SAPAA](https://sapaastewards.com) (Next.js, Supabase PostgreSQL, AWS S3)
+- &nbsp; 📑 Teaching Assistant — CMPUT 204 (Algorithms I)
 
 ---
 
@@ -97,3 +96,5 @@ I'm a full-stack developer with a focus on building accessible, data-driven appl
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsivakumar2809&layout=compact&theme=dark&hide_border=true&title_color=00ae00&text_color=ffffff&bg_color=000000)
 
 </div>
+
+
