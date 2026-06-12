@@ -1,6 +1,6 @@
-<div align="center"> <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
+<div align="center"> 
 
-# Vishal Sivakumar
+# Vishal Sivakumar <img src="https://i.gifer.com/33HU.gif" width="40" height="40" />
 
 **Graduating B.Sc. Computing Science with First-Class Honors · University of Alberta**
 
